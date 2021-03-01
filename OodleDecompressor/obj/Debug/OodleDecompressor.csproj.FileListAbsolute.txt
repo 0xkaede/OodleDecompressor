@@ -1,0 +1,10 @@
+C:\Users\joshu\Desktop\Projects\OodleDecompressor\OodleDecompressor\bin\Debug\OodleDecompressor.exe.config
+C:\Users\joshu\Desktop\Projects\OodleDecompressor\OodleDecompressor\bin\Debug\OodleDecompressor.exe
+C:\Users\joshu\Desktop\Projects\OodleDecompressor\OodleDecompressor\bin\Debug\OodleDecompressor.pdb
+C:\Users\joshu\Desktop\Projects\OodleDecompressor\OodleDecompressor\obj\Debug\OodleDecompressor.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Projects\OodleDecompressor\OodleDecompressor\obj\Debug\OodleDecompressor.Properties.Resources.resources
+C:\Users\joshu\Desktop\Projects\OodleDecompressor\OodleDecompressor\obj\Debug\OodleDecompressor.csproj.GenerateResource.cache
+C:\Users\joshu\Desktop\Projects\OodleDecompressor\OodleDecompressor\obj\Debug\OodleDecompressor.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Projects\OodleDecompressor\OodleDecompressor\obj\Debug\OodleDecompressor.exe
+C:\Users\joshu\Desktop\Projects\OodleDecompressor\OodleDecompressor\obj\Debug\OodleDecompressor.pdb
+C:\Users\joshu\Desktop\Projects\OodleDecompressor\OodleDecompressor\obj\Debug\OodleDecompressor.Form1.resources
